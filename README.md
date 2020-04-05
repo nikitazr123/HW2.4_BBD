@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/3s7v1slghjwt0a8g?svg=true)](https://ci.appveyor.com/project/NataliaGracheva/aqa-2-4-1)
+
 # Домашнее задание к занятию «2.4. BDD»
 
 В качестве результата пришлите ссылки на ваши GitHub-проекты в личном кабинете студента на сайте [netology.ru](https://netology.ru).
