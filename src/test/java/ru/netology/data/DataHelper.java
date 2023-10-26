@@ -6,6 +6,7 @@ public class DataHelper {
     private DataHelper() {}
 
     @Value
+
     public static class AuthInfo {
         private String login;
         private String password;
@@ -20,6 +21,7 @@ public class DataHelper {
     }
 
     @Value
+
     public static class VerificationCode {
         private String code;
     }
@@ -29,6 +31,7 @@ public class DataHelper {
     }
 
     @Value
+
     public static class CardInfo {
         private String number;
     }

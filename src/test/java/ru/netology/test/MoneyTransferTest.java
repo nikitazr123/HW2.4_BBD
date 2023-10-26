@@ -36,6 +36,7 @@ public class MoneyTransferTest {
     }
 
     @Test
+
     @DisplayName("Перевод денег сo второй карты на первую")
     void shouldTransferMoneyFromSecondToFirstCard() {
         sum = 100;
